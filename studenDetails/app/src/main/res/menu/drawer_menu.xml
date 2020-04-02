@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/nav_detils"
+        android:icon="@drawable/ic_deatils"
+        android:title="@string/SeeDetails" />
+
+    <item
+        android:id="@+id/download_in_xl_home"
+        android:icon="@drawable/ic_arrow_downward_black_24dp"
+        android:title="@string/nav_excel_download" />
+
+    <item
+        android:id="@+id/desktop"
+        android:title="Desktop Mode"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:checkable="true"
+        android:visible="false"
+        />
+
+
+</menu>

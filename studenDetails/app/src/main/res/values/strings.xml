@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">studentDetails</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_excel_download">Download(Excel)</string>
+    <string name="SeeDetails">See Details</string>
+    <string name="format_request_permision">>%1$s will need to have read/write permission your sdcard to save Files.Do you want to grant it?
+    </string>
+    <string name="info_permission_denied">Sorry permission denied.We can not open this app on your device, please try again later.</string>
+    <string name="clear_text">Clear Text Button</string>
+
+    <string-array name="branch_array">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+
+        <item>Random Field</item>
+    </string-array>
+</resources>
