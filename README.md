@@ -15,7 +15,7 @@ Get the Student Details Through an android app and save the file in excel format
 ## Features
 ### 1 Take the user input and stores the details on fireabse in json format
 ### 2 you can upload the dummy json file for testing 
-### 3 Save the fetched details in user's internal stoarge path:// interhal storage/stdent/studentDetails.xlxs
+### 3 Save the fetched details in user's internal stoarge path:// internal storage/stdent/studentDetails.xlxs
 ### Note :
 dont forget to add google-service.json file in your project 
 
