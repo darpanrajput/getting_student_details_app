@@ -10,12 +10,13 @@ Get the Student Details Through an android app and save the file in excel format
 ## STEPS
 ### 1 Setup firebase account for your Project
 ### 2 [Firebase setup android](https://www.geeksforgeeks.org/adding-firebase-to-android-app/)
-### 3 Add the dependencies given in gradle(app) file
+### 4 Add the dependencies given in gradle(app) file
 
-## Features
+## Task
 ### 1 Take the user input and stores the details on fireabse in json format
 ### 2 you can upload the dummy json file for testing 
 ### 3 Save the fetched details in user's internal stoarge path:// internal storage/stdent/studentDetails.xlxs
+### 4 Save the excel sheet in which names are present in alphabetical order.
 ### Note :
 dont forget to add google-service.json file in your project 
 
