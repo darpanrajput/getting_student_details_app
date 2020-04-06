@@ -1,10 +1,15 @@
 # getting_student_details_app
 Get the Student Details Through an android app and save the file in excel format
 
-| First View | Second view |
-| :---         |          ---: |
-| ![Image of Yaktocat](https://1.bp.blogspot.com/-ZcERbTvUSBA/XoXVq_0iWwI/AAAAAAAABzU/rFT0mIY5-gY0dpqju1WR9blWKDZua8S3wCLcBGAsYHQ/s1600/Screenshot_2020-04-02-17-08-26-036_com.darpan.studendetails.png)   | ![Image of Yaktocat](https://1.bp.blogspot.com/-S4rv0xEiLAw/XoXVCy9G6SI/AAAAAAAABzI/_SVIlPKTAJYgOrIOBPZy2JmJv9qnCOt8gCLcBGAsYHQ/s1600/Screenshot_2020-04-02-17-08-56-994_com.darpan.studendetails.jpg) |
- |
+<table>
+ <tr>
+  <td>
+<img src=https://1.bp.blogspot.com/-ZcERbTvUSBA/XoXVq_0iWwI/AAAAAAAABzU/rFT0mIY5-gY0dpqju1WR9blWKDZua8S3wCLcBGAsYHQ/s1600/Screenshot_2020-04-02-17-08-26-036_com.darpan.studendetails.png width="40%"> 
+  </td>
+  <td><img src=https://1.bp.blogspot.com/-S4rv0xEiLAw/XoXVCy9G6SI/AAAAAAAABzI/_SVIlPKTAJYgOrIOBPZy2JmJv9qnCOt8gCLcBGAsYHQ/s1600/Screenshot_2020-04-02-17-08-56-994_com.darpan.studendetails.jpg width="40%"> </td>
+ </tr>
+ </table>
+
 
 
 ## STEPS
@@ -19,5 +24,6 @@ Get the Student Details Through an android app and save the file in excel format
 ### 4 Save the excel sheet in which names are present in alphabetical order.
 ### Note :
 dont forget to add google-service.json file in your project 
+
 
 
